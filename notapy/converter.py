@@ -106,7 +106,7 @@ def combine_midis(midi_file_paths, output_midi_path):
 
     # Write the combined stream to a MIDI file
     combined_stream.write('midi', output_midi_path)
-    print(f"Combined MIDI file created: {output_midi_path}")
+    print(f"MIDI file created: {output_midi_path}")
 
 
 def ensure_directories_exist():
