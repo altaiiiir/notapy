@@ -11,7 +11,7 @@ NotaPy is a Python library for converting MIDI files to CSV files and vice versa
 
 ## Installation
 
-To install NotaPy, clone the repository or install via pip (if published on PyPI):
+To install NotaPy, clone the repository or install via pip (https://pypi.org/project/notapy/):
 
 ```sh
 pip install notapy
