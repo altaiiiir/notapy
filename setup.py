@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='notapy',
-    version='0.1.0',
+    version='0.2.0',
     description='A Python library to convert MIDI files to CSV and vice versa.',
     author='Mohamed Alturfi',
     author_email='mohamed9667@gmail.com',

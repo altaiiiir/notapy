@@ -1,6 +1,11 @@
 from .converter import (
-    convert_midi_to_csv,
-    convert_csv_to_midi,
-    convert_and_combine_midi_files,
+    midi_to_csv,
+    csv_to_midi,
     combine_midis,
 )
+
+__all__ = [
+    "midi_to_csv",
+    "csv_to_midi",
+    "combine_midis"
+]
